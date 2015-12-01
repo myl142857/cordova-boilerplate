@@ -17,6 +17,11 @@ https://www.npmjs.com/package/cordova-plugin-crosswalk-webview  //crosswalk
 http://cordova.apache.org/docs/en/latest/guide/hybrid/webviews/index.html
 http://cordova.apache.org/docs/en/latest/guide/platforms/android/webview.html  //Android WebViews
 
+//[Addison-Wesley Professional] Apache Cordova 3 Programming
+4. cordova cli: 
+# cordova help
+# cordova serve android  
+# cordova plugins
 
 ---------------------
 // 2. plugin- copy from http://cordova.apache.org/docs/en/latest/guide/cli/#link-add-plugin-features
