@@ -20,8 +20,9 @@ http://cordova.apache.org/docs/en/latest/guide/platforms/android/webview.html  /
 //books of: [Addison-Wesley Professional] Apache Cordova 3 Programming.pdf
 4. cordova cli: 
 # cordova help
-# cordova serve android  
+# cordova serve android // then browse it at: http://localhost:8000/ 
 # cordova plugins
+# cordova plugin add cordova-plugin-device
 
 ---------------------
 // 2. plugin- copy from http://cordova.apache.org/docs/en/latest/guide/cli/#link-add-plugin-features
