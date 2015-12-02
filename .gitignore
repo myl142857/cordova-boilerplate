@@ -1,3 +1,4 @@
 platforms/android/CordovaLib/build/
 platforms/android/.gradle/2.2.1/taskArtifacts/
 platforms/android/assets/www/index.html
+platforms/android/assets/www/tutor/
