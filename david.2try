@@ -24,6 +24,9 @@ http://cordova.apache.org/docs/en/latest/guide/platforms/android/webview.html  /
 # cordova plugins
 # cordova plugin add cordova-plugin-device
 
+//books of: PhoneGap Essentials.pdf
+# chapter 18
+
 ---------------------
 // 2. plugin- copy from http://cordova.apache.org/docs/en/latest/guide/cli/#link-add-plugin-features
 Add Plugin Features

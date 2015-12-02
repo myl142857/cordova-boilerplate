@@ -47,7 +47,7 @@ var element = document.getElementById("appInfo");
 //Replace it with specific information about the device
 //running the application
 // # cordova plugin add cordova-plugin-device //"cordova-plugin-device"
-element.innerHTML = 'Cordova Version: ' + device.cordova + br + 'Platform: ' + device.platform + br + 'Model: ' + device.model + br + 'OS Version: ' + device.version;
+element.innerHTML = 'Device name:uuid: ' + device.name + device.uuid + 'Cordova Version: ' + device.cordova + br + 'Platform: ' + device.platform + br + 'Model: ' + device.model + br + 'OS Version: ' + device.version;
 	  }
         </script>
     </head>
@@ -59,6 +59,9 @@ element.innerHTML = 'Cordova Version: ' + device.cordova + br + 'Platform: ' + d
                 <p class="event received">Device is Ready</p>
             </div>
 	    <p id="appInfo">Waiting for Cordova Initialization to complete</p>
+            <div>
+		<a href=tutor/FileAPI/index.html>FileAPI</a>
+            </div>
         </div>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
